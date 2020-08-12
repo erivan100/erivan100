@@ -1,6 +1,6 @@
 ## Hey  👋
 
-My name is Erivan Santos Oliveira
+My name is Erivan Oliveira
 
 I'm graduated in Information Systems, I've been studying front-end since 2020. 💻
 
