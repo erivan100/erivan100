@@ -4,7 +4,7 @@
 I have a degree in Information Systems, I've been studying front-end since 2020. 💻
 
 
-### 🌍  "Quanto mais eu sei, mais eu sou"  🧠
+### 🌍  " Foco no Objetivo "  🧠
 
 -   📍  São Paulo - BR
 -   💻  Front-End developer 
