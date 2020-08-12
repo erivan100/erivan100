@@ -1,6 +1,5 @@
-## Hey  👋
+## Hey, I'm Erivan Oliveira!  👋
 
-My name is Erivan Oliveira
 
 I have a degree in Information Systems, I've been studying front-end since 2020. 💻
 
