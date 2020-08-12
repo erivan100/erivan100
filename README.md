@@ -2,7 +2,7 @@
 
 My name is Erivan Oliveira
 
-I'm graduated in Information Systems, I've been studying front-end since 2020. 💻
+I have a degree in Information Systems, I've been studying front-end since 2020. 💻
 
 
 ### 🌍  "Quanto mais eu sei, mais eu sou"  🧠
